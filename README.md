@@ -1,3 +1,6 @@
+## Bugfix
+This is a fork of legume that fixes a bug in the vis.eps_ft so that you can change the value of 'cmap'. Brief disclaimer that the below documentation is copied over from the original legume repository. It is written with 'we', but I am not one of the creators of legume :)
+
 [![Build Status](https://travis-ci.com/fancompute/legume.svg?token=ZCPktA3Ki2eYVXYnfbrz&branch=master)](https://travis-ci.com/fancompute/legume.svg?branch=master) [![Documentation Status](https://readthedocs.org/projects/legume/badge/?version=latest)](https://legume.readthedocs.io/en/latest/?badge=latest)
 [![Code style: yapf pep8](https://img.shields.io/badge/code%20style-yapf-000000.svg)](https://github.com/google/yapf)
 
@@ -8,13 +11,7 @@ legume (le GUided Mode Expansion) is a python implementation of the GME method f
 
 ## Install
 
-Easiest way:
-
-```
-pip install legume-gme
-```
-
-Alternatively, just `git clone` this repository, and make sure you have all the requirements installed.
+Just `git clone` this repository, and make sure you have all the requirements installed.
 
 ## Documentation and examples
 
